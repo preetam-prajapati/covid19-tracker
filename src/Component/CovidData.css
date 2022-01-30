@@ -1,0 +1,50 @@
+body {
+    background-color: aqua;
+
+}
+.covidData {
+    background-color: aqua;
+    width: 30%;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 6px;
+    padding: 10px;
+
+}
+.covidData__form {
+    padding: 10px;
+    margin: 20px;
+
+}
+.covidData__input {
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.covidData__input button {
+    width: 80px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px,5px,5px rgb(red, green, blue);
+    cursor: pointer;
+}
+.covidData__conutry__info {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    margin-left: auto;
+    height: auto;
+    padding-left: 10px;
+    background-color: white;
+    margin-top: 20px;
+    padding: 2px;
+    text-shadow: 1px,1px,1px rgb(red, green, blue);
+    box-shadow: 5px 5px 5px rgb(red, green, blue);
+}
